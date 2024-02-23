@@ -1,0 +1,6 @@
+let nome = "Júlia";
+let inteiro = 16;
+let inteiro2 = 1.60;
+let inteiro3 = 56;
+console.log (`A ${nome} tem ${inteiro} anos, tem ${inteiro2} de altura e pesa ${inteiro3} kg`);
+console.log (inteiro);
