@@ -1,0 +1,6 @@
+let nome = "Júlia";
+let nome2 = "Júlia Z";
+let nomes = `o nome de ${nome} é ${nome}`;
+console.log (nome);
+console.log (nome2);
+console.log (nomes);
