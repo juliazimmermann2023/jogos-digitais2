@@ -1,0 +1,4 @@
+let soma= 55 + 22;
+let diferenca = 55 - 22 ;
+let multiplicacao = 55 * 
+console.log(`À soma de 55 + 22 é ${soma}`)
