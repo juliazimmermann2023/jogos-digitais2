@@ -8,6 +8,12 @@ let subtracao3 =8909-7655;
 let subtracao4 =7655-5239;
 let subtracao5 =2416-2983;
 console.log(subtracao.toFixed(5))
-let multiplicacao= 490 * 2;
-let multiplicacao= 980 * 1;
+let multiplicacao = 490 * 2;
+let multiplicacao2 = 980 * 1;
 console.log(subtracao.toFixed(2))
+let divisao1 = 168/2;
+let divisao = 84/2;
+let divisao2 = 42/2;
+console.log(divisao.toFixed(3))
+
+
