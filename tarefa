@@ -18,3 +18,13 @@ let divisao1 = 168/2;
 let divisao = 84/2;
 let divisao2 = 42/2;
 console.log(divisao2)
+
+let restoDivisao1 = 3000 % 90;
+let restoDivisao2 = 90 % 40;
+let restoDivisao3 = 40 % 30;
+let restoDivisao4 = 30 % 8;
+console.log(restoDivisao1 + restoDivisao2 + restoDivisao3 + restoDivisao4);
+
+
+
+
