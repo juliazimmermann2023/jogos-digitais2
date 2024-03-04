@@ -1,0 +1,16 @@
+let pessoa ={
+    nome: 'Júlia ',
+    idade: 17,
+    carMotor: true,
+    aut: true
+}
+
+if(pessoa.idade >= 18 && pessoa.carMotor == true && pessoa.aut == true){
+    console.log('autorizado')
+} else if (pessoa.idade >= 18 && pessoa.carMotor == false && pessoa.aut == true || pessoa.idade <= 18  && pessoa.aut == true){
+    console.log('autorizado, nao pode dirigir')
+} else if (pessoa.idade >= 18 && pessoa.carMotor == true && pessoa.aut == false){
+    console.log('nao autorizado, pode dirigir')
+} else{
+    console.log('tem menos de 18 anos')
+}
